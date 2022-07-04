@@ -3,11 +3,141 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/cristian/develop/cooltrack/front-js/src/images" added="2022-05-27T14:59:52.744588Z" modified="2022-05-27T14:59:52.744596Z" visited="2022-05-27T14:59:52.744590Z">
+  <bookmark href="file:///run/media/cristian/4688CC8D88CC7D45/C@RMELY/SOLO%20FOTOS" added="2022-06-21T19:35:54.526498Z" modified="2022-06-21T19:35:54.526503Z" visited="2022-06-21T19:35:54.526499Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-05-27T14:59:52.744592Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-06-21T19:35:54.526501Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/cristian/4688CC8D88CC7D45/C@RMELY/SOLO%20FOTOS/mis%20fotos%202" added="2022-06-21T19:35:54.526505Z" modified="2022-06-21T19:35:54.526507Z" visited="2022-06-21T19:35:54.526505Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-06-21T19:35:54.526506Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cristian/Photos" added="2022-06-21T19:35:54.526509Z" modified="2022-06-21T19:35:54.526512Z" visited="2022-06-21T19:35:54.526510Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-06-21T19:35:54.526511Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/cristian/4688CC8D88CC7D45/C@RMELY/SOLO%20FOTOS/mis%20fotos%202/fotossss" added="2022-06-21T19:35:54.526513Z" modified="2022-06-21T19:35:54.526515Z" visited="2022-06-21T19:35:54.526514Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-06-21T19:35:54.526514Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/cristian/4688CC8D88CC7D45/C@RMELY/SOLO%20FOTOS/Ultimas%20fotos%20nikon" added="2022-06-21T19:35:54.526517Z" modified="2022-06-21T19:35:54.526519Z" visited="2022-06-21T19:35:54.526517Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-06-21T19:35:54.526518Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/cristian/4688CC8D88CC7D45/C@RMELY/SOLO%20FOTOS/CARME" added="2022-06-21T19:35:54.526521Z" modified="2022-06-21T19:35:54.526525Z" visited="2022-06-21T19:35:54.526521Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-06-21T19:35:54.526522Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/cristian/4688CC8D88CC7D45/C@RMELY/SOLO%20FOTOS/FOTOS%20BELLAS%20ARTES" added="2022-06-21T19:35:54.526526Z" modified="2022-06-21T19:35:54.526528Z" visited="2022-06-21T19:35:54.526527Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-06-21T19:35:54.526527Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/cristian/4688CC8D88CC7D45/C@RMELY/SOLO%20FOTOS/fotossss" added="2022-06-21T19:35:54.526532Z" modified="2022-06-21T19:35:54.526534Z" visited="2022-06-21T19:35:54.526533Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-06-21T19:35:54.526533Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/cristian/4688CC8D88CC7D45/C@RMELY/SOLO%20FOTOS/MIS%20FOTOS" added="2022-06-21T19:35:54.526536Z" modified="2022-06-21T19:35:54.526538Z" visited="2022-06-21T19:35:54.526536Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-06-21T19:35:54.526537Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/cristian/4688CC8D88CC7D45/C@RMELY/SOLO%20FOTOS/museo" added="2022-06-21T19:35:54.526539Z" modified="2022-06-21T19:35:54.526541Z" visited="2022-06-21T19:35:54.526539Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-06-21T19:35:54.526540Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/cristian/4688CC8D88CC7D45/C@RMELY/SOLO%20FOTOS/FOTOS%20DE%20CRISTIAN" added="2022-06-21T19:35:54.526542Z" modified="2022-06-21T19:35:54.526544Z" visited="2022-06-21T19:35:54.526542Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-06-21T19:35:54.526543Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/cristian/4688CC8D88CC7D45/C@RMELY/FOTOS%20NIKON/103NIKON" added="2022-06-21T19:35:54.526545Z" modified="2022-06-21T19:35:54.526547Z" visited="2022-06-21T19:35:54.526546Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-06-21T19:35:54.526546Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/cristian/4688CC8D88CC7D45/C@RMELY/FOTOS%20NIKON/101NIKON" added="2022-06-21T19:35:54.526549Z" modified="2022-06-21T19:35:54.526553Z" visited="2022-06-21T19:35:54.526550Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-06-21T19:35:54.526550Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/cristian/4688CC8D88CC7D45/C@RMELY/FOTOS%20NIKON" added="2022-06-21T19:35:54.526556Z" modified="2022-06-21T19:35:54.526558Z" visited="2022-06-21T19:35:54.526556Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2022-06-21T19:35:54.526557Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>
